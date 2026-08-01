@@ -1,0 +1,11 @@
+{
+    "geode": "v4.0.0",
+    "gd": {
+        "android": "*"
+    },
+    "id": "ru.userfix.fpsunlocker",
+    "name": "FPS Unlocker",
+    "version": "v1.0.0",
+    "developer": "rockomnadzor",
+    "description": "Forces the game to request a high display refresh rate on Android"
+}
